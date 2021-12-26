@@ -1,4 +1,5 @@
-from tkinter import *
+#!/usr/bin/python
+
 import requests as r
 from time import sleep as s
 from datetime import datetime as dt
